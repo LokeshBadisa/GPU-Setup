@@ -8,4 +8,6 @@ wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.18/amd64/linux-image-unsi
 wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.18/amd64/linux-modules-5.18.0-051800-generic_5.18.0-051800.202205222030_amd64.deb
 sudo dpkg -i *
 rm -r pleasedeleteaftergpusetup
+sudo apt install make 
+sudo apt install gcc
 sudo reboot
