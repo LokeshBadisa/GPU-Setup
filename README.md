@@ -1,6 +1,6 @@
 # GPU-Setup: CUDA11.7
-This Repository guides you with setting up NVIDIA-GPU on your PC.
-By the time this repository is up, Pytorch supports CUDA11.7(Latest).
+This Repository guides you with setting up NVIDIA-GPU on your PC.<br>
+By the time this repository is up, Pytorch supports CUDA11.7 and CUDA11.6 in GPU domain.So, this considers CUDA11.7.
 
 Steps:<br>
 1.Run 1.sh:
@@ -30,7 +30,7 @@ After downloading, follow below steps:
 ```
 sh 3.sh
 ```
-From here,you can install either in pip or conda.
+From here,you can install Pytorch either in pip or conda.
 # Conda Installation 
 Below Steps are for conda installation(Necessary if you don't have conda):
 ```
