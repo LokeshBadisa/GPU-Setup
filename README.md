@@ -1,5 +1,6 @@
 # GPU-Setup: CUDA11.7
 This Repository guides you with setting up NVIDIA-GPU on your PC.<br>
+Much of the below work is taken from [here](https://github.com/prodramp/DeepWorks/tree/main/DeepLearningRig). This guide incorporates solution to some bugs we faced from the above source.
 By the time this repository is up, Pytorch supports CUDA11.7 and CUDA11.6 in GPU domain.So, this considers CUDA11.7.
 
 Steps:<br>
